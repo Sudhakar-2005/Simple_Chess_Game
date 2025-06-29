@@ -1,1 +1,0 @@
-# Simple_Chess_Game
